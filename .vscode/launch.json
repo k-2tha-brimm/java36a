@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Net",
+            "request": "launch",
+            "mainClass": "Net",
+            "projectName": "java-postgresql-sample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java-postgresql-sample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaPostgreSqlVersion",
+            "request": "launch",
+            "mainClass": "JavaPostgreSqlVersion",
+            "projectName": "java-postgresql-sample"
+        }
+    ]
+}
